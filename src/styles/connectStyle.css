@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+/* section 1 */
+
+
+/* section 2 starts  */
 .container {
   background-color: #f4ede4;
   padding: 60px 0px;
@@ -32,10 +36,14 @@ h2 {
 }
 
 .f-grid p {
+  /* box-sizing: border-box; */
   font-weight: 900;
   font-size: 16px;
   margin: 0;
   margin-bottom: 20px;
+  letter-spacing: normal;
+  text-align: left;
+  /* initial-letter-align: left; */
 }
 
 .max-w {
