@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+}
+
+li {
+  /* text-decoration: none; */
+  list-style-type: none;
+}
+
+.mx-w {
+  max-width: 1180px;
+}
+
+.nav-container {
+  /* background-color: aqua; */
+}
+
+/* .nav-bar {
+  display: flex;
+}
+.nav-links0 ul {
+  max-width: 1180px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+} */
+
+.nav-contianer {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.nav-links ul {
+  
+  justify-content: space-between;
+  margin: auto;
+}
