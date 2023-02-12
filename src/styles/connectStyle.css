@@ -4,7 +4,6 @@ body {
 
 /* section 1 */
 
-
 /* section 2 starts  */
 .container {
   background-color: #f4ede4;
@@ -74,4 +73,20 @@ h2 {
 .small-f {
   font-size: 14px;
   margin-top: 28px;
+}
+
+.main {
+  display: flex;
+  max-width: 1180px;
+}
+
+.right{
+  width: 50%;
+  text-align: end;
+  margin: 0;
+  padding: 0
+
+.left{
+  width: 50%;
+  text-align: left;
 }
