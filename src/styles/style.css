@@ -3,15 +3,14 @@
   margin: 0;
 }
 
-
-
 .nav-container {
   display: flex;
   height: 100%;
   margin: 0 auto;
-  padding: 0;
 }
-
+.nav0 ul li {
+  display: inline-block;
+}
 .container {
   display: flex;
   width: 50%;
